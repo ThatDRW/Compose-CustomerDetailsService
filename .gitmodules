@@ -1,0 +1,3 @@
+[submodule "Java-CustomerDetailsService"]
+	path = Java-CustomerDetailsService
+	url = https://github.com/ThatDRW/Java-CustomerDetailsService
