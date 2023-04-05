@@ -1,0 +1,9 @@
+#Block everything
+*
+#Allow directories
+!*/
+#Allow dockerfile
+!.gitignore
+!.gitmodules
+!dockerfile
+!docker-compose.yaml
