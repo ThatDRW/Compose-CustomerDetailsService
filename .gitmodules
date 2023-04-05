@@ -1,6 +1,8 @@
 [submodule "Java-CustomerDetailsService"]
 	path = Java-CustomerDetailsService
 	url = https://github.com/ThatDRW/Java-CustomerDetailsService
+	branch = Compose
 [submodule "Angular-CustomerDetailsService"]
 	path = Angular-CustomerDetailsService
 	url = https://github.com/ThatDRW/Angular-CustomerDetailsService
+	branch = Compose
