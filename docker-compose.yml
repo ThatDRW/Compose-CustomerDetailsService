@@ -8,7 +8,6 @@ services:
   java:
     build:
       context: Java-CustomerDetailsService
-      target: github
     ports:
       - 8080:8080
 
